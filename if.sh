@@ -1,7 +1,7 @@
 #! /bin/bash
 #if_statement
 
-count=10
+count=12
 
 if [ $count -eq 10 ]
 then
