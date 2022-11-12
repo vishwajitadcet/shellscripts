@@ -1,0 +1,6 @@
+this is linux for devops
+
+shell scripting is awesome i loved it.
+
+
+done
